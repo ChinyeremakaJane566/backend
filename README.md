@@ -185,6 +185,27 @@ LIBRARY_CATALOGUE/
 6. View borrowed books
 7. Return a book
 8. (Admin) Add/Edit/Delete/update books
+## How to run frontend locally
+Open the folder in VS Code.
+Install the Live Server extension.
+Right-click index.html.
+Click Open with Live Server.
+it will open on site
+intall dependencies:
+npm install
+npm start
+npm run dev
+Then open thunder client and type this:
+http://localhost:4000.
+
+## how to run on backend:
+cd backend
+npm install
+node server.js
+open thunder client and type:
+http://localhost:4000
+you can register,select a table of columns which you want to see;
+and the table will be displayed.
 
 ## changelles
 Jane as the developer had so many challanges which was solved,
@@ -200,6 +221,10 @@ most of her changelles were from the backend connection.
 https://www.youtube.com/watch?v=oYRda7UtuhA
 https://www.youtube.com/watch?v=6XmDdIRmg84&t=1647s
 The Backend was the lectures leacturing videos.
+
+## Deployment links 
+1. Frontend link:https://chinyeremakajane566.github.io/frontend/
+2. backend link: https://backend-malb.onrender.com
 
 ## it's christmas season
 Chinyeremaka Jane wishes you a very wonderful Christmas and a prosperous new year!!!
